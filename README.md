@@ -1,8 +1,54 @@
 # Digital Music Store Analysis
 
 ## Project Overview
-The "Online Music Store Analysis" project aims to analyze various aspects of an online music store's operations, including sales, customer behavior, and inventory management. The project leverages a rich dataset that includes information about employees, customers, invoices, playlists, playlist tracks, artists, albums, tracks, media types, and genres. The goal is to extract meaningful insights that can help improve the store's performance and customer satisfaction.
 
+This project analyzes music store data to answer a series of questions using PostgreSQL. The analysis covers various aspects of the store's operations, including employee hierarchy, sales distribution, customer behavior, and music preferences.
+
+## Objectives
+
+1. Employee Analysis:
+ - Identify the senior-most employee based on job title.
+ - Sales Distribution:
+
+2. Determine which countries have the most invoices.
+ - Identify the top three invoice values.
+ - Find the city with the highest sum of invoice totals to plan a promotional event.
+
+3. Customer Insights:
+ - Recognize the best customer by the total money spent.
+
+4. Music Preferences:
+ - List Rock music listeners with their email, first name, last name, and genre.
+ - Invite the top 10 rock bands by track count.
+ - List all tracks longer than the average song length, ordered by length.
+
+5. Advanced Analysis:
+ - Calculate the amount spent by each customer on different artists.
+ - Determine the most popular music genre in each country based on purchases.
+ - Identify the top spending customer in each country.
+
+## Outcomes:
+
+This project provides insights into:
+
+1. Employee Hierarchy:
+ - Understand the organizational structure and identify key personnel.
+
+2. Sales Trends:
+ - Recognize high-performing countries and cities to focus marketing efforts.
+ - Identify the highest value invoices to understand significant sales.
+
+3. Customer Behavior:
+ - Determine the best customers to tailor loyalty programs.
+ - Understand customer preferences in music genres and artists.
+
+4. Music Analysis:
+ - Identify popular music tracks and genres for targeted promotions.
+ - Recognize top rock bands for potential collaborations.
+
+5. Data-Driven Decisions:
+ - Enable better planning for promotional events based on sales data.
+ - Inform strategies for customer retention and engagement through detailed spending analysis.
 
 ## Database and Tools
 * Postgre SQL
