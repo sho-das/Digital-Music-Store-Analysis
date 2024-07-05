@@ -1,8 +1,6 @@
-# Digital-Music-Store-Analysis🎵
-Music Connect the world
+# Digital Music Store Analysis
 
-
-## Project Description
+## Project Overview
 The "Online Music Store Analysis" project aims to analyze various aspects of an online music store's operations, including sales, customer behavior, and inventory management. The project leverages a rich dataset that includes information about employees, customers, invoices, playlists, playlist tracks, artists, albums, tracks, media types, and genres. The goal is to extract meaningful insights that can help improve the store's performance and customer satisfaction.
 
 
